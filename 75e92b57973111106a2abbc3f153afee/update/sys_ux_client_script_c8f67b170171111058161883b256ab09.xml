@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">88f67b17ce711110606cf7557b17e40b</macroponent>
+        <name>handle_tab_filter_click</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: event.payload.selectedFilter,
+			facetFilters: props.facetFilters,
+			disableSpellCheck: props.disableSpellCheck
+		},
+		false,
+    false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 12:03:16</sys_created_on>
+        <sys_id>c8f67b170171111058161883b256ab09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_tab_filter_click</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_ux_client_script_c8f67b170171111058161883b256ab09</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-13 12:03:16</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

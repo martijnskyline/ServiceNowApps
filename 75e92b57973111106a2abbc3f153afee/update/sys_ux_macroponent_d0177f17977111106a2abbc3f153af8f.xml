@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "data_set_1",
+  "elementLabel" : "Data set 1",
+  "propertyValues" : {
+    "title" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Invoices",
+        "comment" : ""
+      }
+    },
+    "titleHeadingLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "titleStyleVariant" : {
+      "type" : "JSON_LITERAL",
+      "value" : "header-tertiary"
+    },
+    "data" : "{}",
+    "toggleView" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "defaultView" : {
+      "type" : "JSON_LITERAL",
+      "value" : "list"
+    },
+    "cardHeight" : {
+      "type" : "JSON_LITERAL",
+      "value" : "sm"
+    },
+    "maxCardsPerRow" : {
+      "type" : "JSON_LITERAL",
+      "value" : "4"
+    },
+    "minCardWidth" : {
+      "type" : "JSON_LITERAL",
+      "value" : 150
+    },
+    "dataBrokerIsLoading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "emptyMessage" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "No content to display",
+        "comment" : ""
+      }
+    },
+    "hideFilter" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "hidePaginationControls" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "daClientActionContract" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "dec0b89ec87f44e66126f8cc78e53891",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <dispatched_events/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"data_set_1","styles":{}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Invoices Overview</name>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "Invoices",
+  "comment" : ""
+}, {
+  "message" : "No content to display",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 12:03:48</sys_created_on>
+        <sys_id>d0177f17977111106a2abbc3f153af8f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Invoices Overview</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_ux_macroponent_d0177f17977111106a2abbc3f153af8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 12:07:42</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

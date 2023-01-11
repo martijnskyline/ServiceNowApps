@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">04f67b17bf7111100547294d32432c14</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 12:03:17</sys_created_on>
+        <sys_id>c8f67b17f9711110ed653b4b2c967b13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_c8f67b17f9711110ed653b4b2c967b13</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-13 12:03:17</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

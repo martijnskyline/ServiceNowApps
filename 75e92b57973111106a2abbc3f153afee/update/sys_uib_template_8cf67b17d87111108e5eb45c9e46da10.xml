@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <image display_value="ui-builder-templates-right-sidebar.svg">89ff424877311010d99bbc3f6810614e</image>
+        <label>Portal Main Content with Right Rail</label>
+        <macroponent display_value="Fixed Width Two-One">48f67b17ae71111092d46662813feb10</macroponent>
+        <order>0</order>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 12:03:16</sys_created_on>
+        <sys_id>8cf67b17d87111108e5eb45c9e46da10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Main Content with Right Rail</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_uib_template_8cf67b17d87111108e5eb45c9e46da10</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-13 12:03:16</sys_updated_on>
+    </sys_uib_template>
+</record_update>

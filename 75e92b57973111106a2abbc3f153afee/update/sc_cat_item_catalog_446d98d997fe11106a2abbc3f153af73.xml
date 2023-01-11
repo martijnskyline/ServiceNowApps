@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Production Job for Event">4ee6145597fe11106a2abbc3f153af95</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:07:38</sys_created_on>
+        <sys_id>446d98d997fe11106a2abbc3f153af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Production Job for Event</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_446d98d997fe11106a2abbc3f153af73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 08:07:38</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

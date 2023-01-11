@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="TGH Test">a1db671ba0311110370db533dfc4f360</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 11:14:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>addb671b343111105de2aa28a34c055d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_ux_page_property_addb671b343111105de2aa28a34c055d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 11:14:46</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_858781_tgh_test.a1db671ba0311110370db533dfc4f360.root.globalSearchDataConfigId</unique_name>
+        <value>a9db671b01311110db03c5f1b133c543</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=addb671b343111105de2aa28a34c055d"/>
+</record_update>

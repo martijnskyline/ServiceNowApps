@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Production Job for Event">4ee6145597fe11106a2abbc3f153af95</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:05:31</sys_created_on>
+        <sys_id>01ec90d997fe11106a2abbc3f153afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Production Job for Event</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_01ec90d997fe11106a2abbc3f153afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 08:05:31</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TGH Test">75e92b57973111106a2abbc3f153afee</application>
+        <file_path/>
+        <instance_id>51912ee8dbd7e810ad8dd7c8f49619ae</instance_id>
+        <instance_name>dev109298</instance_name>
+        <name>sc_cat_item_catalog_01ec90d997fe11106a2abbc3f153afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Production Job for Event">4ee6145597fe11106a2abbc3f153af95</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-26 08:05:31</sys_created_on><sys_id>01ec90d997fe11106a2abbc3f153afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Production Job for Event</sys_name><sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package><sys_policy/><sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope><sys_update_name>sc_cat_item_catalog_01ec90d997fe11106a2abbc3f153afdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-26 08:05:31</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-531470538</payload_hash>
+        <record_name>Service Catalog.Production Job for Event</record_name>
+        <reverted_from/>
+        <source>f9e92b57973111106a2abbc3f153aff0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:05:31</sys_created_on>
+        <sys_id>c5ec90d997fe11106a2abbc3f153afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184135335e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 08:05:31</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>4dec90d906fe1110031d72cea705c4dd</update_guid>
+        <update_guid_history>4dec90d906fe1110031d72cea705c4dd:-531470538</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Production Job for Event">73fc14d997fe11106a2abbc3f153af72</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:05:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0638a9cd4480495a8cc089248b761a24</sys_id>
+        <sys_metadata>01ec90d997fe11106a2abbc3f153afdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Production Job for Event</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_parent display_value="Production Job for Event">4ee6145597fe11106a2abbc3f153af95</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_scope_delete display_value="">5a0954b5106d4a749d3d7ce43d10f459</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_01ec90d997fe11106a2abbc3f153afdc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_01ec90d997fe11106a2abbc3f153afdc">c5ec90d997fe11106a2abbc3f153afde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 08:05:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

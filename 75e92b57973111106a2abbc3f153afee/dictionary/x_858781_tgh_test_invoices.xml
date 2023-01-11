@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Invoices" max_length="40" name="x_858781_tgh_test_invoices" sizeclass="0" text_index="true" type="collection">
+        <element display="true" label="Customer name" mandatory="true" max_length="40" name="customer_name" type="string"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Invoice date" max_length="40" name="invoice_date" type="glide_date_time" use_dynamic_default="true"/>
+        <element label="Total price" mandatory="true" max_length="38" name="total_price" type="currency"/>
+    </element>
+</database>

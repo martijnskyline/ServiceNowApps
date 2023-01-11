@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Starter Workspace Theme</name>
+        <parent display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 11:14:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fddb671b9a311110ea5bcd2f9266bb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starter Workspace Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>sys_ux_theme_fddb671b9a311110ea5bcd2f9266bb7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 11:14:46</sys_updated_on>
+        <theme/>
+    </sys_ux_theme>
+</record_update>

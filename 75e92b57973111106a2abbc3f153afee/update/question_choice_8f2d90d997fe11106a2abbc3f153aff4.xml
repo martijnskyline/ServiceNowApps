@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="OB Truck">e1ecd0d997fe11106a2abbc3f153af0e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:06:45</sys_created_on>
+        <sys_id>8f2d90d997fe11106a2abbc3f153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OB Truck 3</sys_name>
+        <sys_package display_value="TGH Test" source="x_858781_tgh_test">75e92b57973111106a2abbc3f153afee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TGH Test">75e92b57973111106a2abbc3f153afee</sys_scope>
+        <sys_update_name>question_choice_8f2d90d997fe11106a2abbc3f153aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 08:06:45</sys_updated_on>
+        <text>OB Truck 3</text>
+        <value>ob_truck_3</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=8f2d90d997fe11106a2abbc3f153aff4"/>
+</record_update>
